@@ -1,8 +1,7 @@
-# Peanut Butter
+# Code Challenge - Full Stack PHP
 
-This is a code challenge that I took for a "Full Stack" developer position at a company who's name shall be referred to
-as "Peanut Butter."  I have omitted anything that would trace back to the original company out of respect for their
-hiring processes.
+This is a code challenge that I took for a "Full Stack" PHP Developer position I applied for.
+I have omitted anything that would trace back to the original company out of respect for their hiring processes.
 
 ## Purpose
 
@@ -10,7 +9,7 @@ This repo aims to show my experience working through a real, company-issued code
 
 ## The Challenge
 
-At Peanut Butter, a "Full Stack" developer is someone who is technically capable all the way up and down the stack, from
+At "Company", a "Full Stack" developer is someone who is technically capable all the way up and down the stack, from
 hosting and operations to project architecting.  The questions centered around the following concepts.
 
 *   Networking/Ops
@@ -63,13 +62,10 @@ The questions can be found below.  My answers are provided in the `answers.md` f
 
 8.  Use a GitHub Branch as a Composer Dependency
 
-    Explain how you would configure composer to use `https://github.com/peanut-butter/new-private-project` with the
+    Explain how you would configure composer to use `https://github.com/company/new-private-project` with the
     branch `bugfixes` in your project.
 
-9.  Get "peanut-butter" working locally and attach a screenshot showing that you could do it. If there are problems,
-    document and fix them.
-
-10. This string contains information about this test. Can you determine what its significance is?
+9.  This string contains information about this test. Can you determine what its significance is?
 
     ```php
     'aXA6MTA0LjIwMC4xMzIuMTg0IHRpbWU6MjAxOS0xMC0wNCAxNTo1MzoxMw=='

@@ -266,7 +266,7 @@
 
 8.  **Use a GitHub Branch as a Composer Dependency**
 
-    Explain how you would configure composer to use `https://github.com/peanut-butter/new-private-project` with the
+    Explain how you would configure composer to use `https://github.com/company/new-private-project` with the
     branch `bugfixes` in your project.
 
     ```php
@@ -274,21 +274,16 @@
         "repositories": [
             {
             "type": "git",
-            "url": "https://github.com/peanut-butter/new-private-project"
+            "url": "https://github.com/company/new-private-project"
             }
         ],
         "require": {
-            "peanut-butter/new-private-project": "dev-hotfix"
+            "company/new-private-project": "dev-hotfix"
         }
     }
     ```
 
-9.  **Get "peanut-butter" working locally and attach a screenshot showing that you could do it. If there are problems,**
-    **document and fix them.**
-
-    This answer has been omitted.
-
-10. **This string contains information about this test. Can you determine what its significance is?**
+9.  **This string contains information about this test. Can you determine what its significance is?**
 
     ```php
     'aXA6MTA0LjIwMC4xMzIuMTg0IHRpbWU6MjAxOS0xMC0wNCAxNTo1MzoxMw=='
